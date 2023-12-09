@@ -1,0 +1,40 @@
+{
+    "Movies": [
+      {
+        "id": 1,
+        "title": "jambada Hudugi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jambada_Hudugi.jpg",
+        "description": "A girl who is a doctor falls in love with a boy. When the boy spurns her love,she tries to impress him at all costs."
+      },
+      {
+        "id": 2,
+        "title": "Moggina Manasu",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/60/MogginaManasu.jpeg",
+        "description": "Renu, Akka, Didi and Chanchala are four friends from college who face several adversities in life. However, they find one way or another to live their life to the fullest."
+      },
+      {
+        "id": 3,
+        "title": "Rocky",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWQ1M2NhNTAtNTQ5ZC00ODA4LWI3ZjQtYTQ1ZTM1MzRkYjNhXkEyXkFqcGdeQXVyMzQzMDc2MDk@._V1_.jpg",
+        "description": "Rocky is head over heels in love with Usha. On realising that she is in love with Vishwas, he sacrifices his love and tries to unite her with her lover."
+      },
+      {
+        "id": 4,
+        "title": "Kallara Sante",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Kallara_Santhe.jpg",
+        "description": "A young man who is let down by the system decides to commit suicide. When the news spreads to the media and the government, he undergoes a life-changing event."
+      },
+      {
+        "title": "Gokula",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e7/Gokurocpost.jpg",
+        "description": "Four young orphans pretend to be the grandchildren of a wealthy old man to inherit his wealth. But things take an emotional turn and the orphans start contemplating their evil plan.",
+        "id": 5
+      },
+      {
+        "title": "Thamassu",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Tamassu_poster.png",
+        "description": "An honest police officer wages a war against terrorists in the city and begins to kill them. However, he starts to question his methods when he kills an alleged terrorist.",
+        "id": 6
+      }
+    ]
+  }
